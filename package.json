@@ -1,6 +1,6 @@
 {
-  "name": "btmt-m3-templates",
-  "version": "1.0.0",
+  "name": "btmt-m3-template",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
